@@ -1,1 +1,1 @@
-# CRP
+# Academic ERP website
